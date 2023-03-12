@@ -25,9 +25,9 @@ I successfully implemented the video calling feature.I also implemented:
 
 ```bash
 
-git clone https://github.com/Mahesh-Kasabe/Lets-Meet-Devops
+git clone
 
-cd Lets-Meet-Devops
+cd
 
 docker-compose up
 
@@ -37,9 +37,9 @@ docker-compose up
 
 ```bash
 
-git clone https://github.com/Mahesh-Kasabe/Lets-Meet-Devops
+git clone
 
-cd Lets-Meet-Devops/Deployments/K8s
+cd
 
 kubectl apply -f argocd.yaml
 
@@ -49,9 +49,9 @@ kubectl apply -f argocd.yaml
 
 ```bash
 
-git clone https://github.com/Mahesh-Kasabe/Lets-Meet-Devops
+git clone
 
-cd Lets-Meet-Devops/Deployments/IAC/AWS
+cd
 
 terraform apply
 
@@ -61,9 +61,9 @@ terraform apply
 
 ```bash
 
-git clone https://github.com/Mahesh-Kasabe/Lets-Meet-Devops
+git clone
 
-cd Lets-Meet-Devops/Deployments/IAC/CIVO
+cd
 
 terraform apply
 
